@@ -7,8 +7,10 @@
 
 
 
-  <h3>Languages and Tools:</h3>
-
+   <!-- GitHub stats -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=salah-ht&show_icons=true&locale=en&layout=compact" alt="salah-ht" />
+  <br/>
+    <br/>
   <!-- First line of icons -->
   <div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 10px; flex-wrap: nowrap;">
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
@@ -42,8 +44,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
   </div>
 
-  <br/>
 
-  <!-- GitHub stats -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=salah-ht&show_icons=true&locale=en&layout=compact" alt="salah-ht" />
+
+ 
 </div>
