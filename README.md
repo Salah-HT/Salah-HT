@@ -1,9 +1,12 @@
 <div align="center">
   <h1>Hi, I'm SALAH HAMSATE</h1>
 
+  
+
+
 <div align="center">
 
-  <img src="https://github.com/user-attachments/assets/62d91400-808e-42d6-915f-e1eab23aa37e" alt="gt">
+  <img src="https://github.com/user-attachments/assets/0d07d57b-632e-4e4b-b888-98a14a0aca48" alt="gt">
 </div>
 
    <!-- GitHub stats -->
