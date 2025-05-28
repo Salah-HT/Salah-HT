@@ -1,7 +1,12 @@
 
+<div align="center">
 
-![Cool Animation](https://user-images.githubusercontent.com/43299285/146223384-04341fcf-4769-4353-82b1-f3d78f7de611.gif)
+  <img src="https://github.com/user-attachments/assets/69616e39-cd82-41c7-bb19-ee6c71ef0bf4" alt="gt">
+</div>
 
+
+
+  
 <div align="center">
   <h1>Hi, I'm SALAH HAMSATE</h1>
 
