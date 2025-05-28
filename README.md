@@ -1,17 +1,10 @@
-
-<div align="center">
-
-  <img src="https://github.com/user-attachments/assets/7ad051d0-c616-4471-b3c5-3f5408876ac3" alt="gt">
-</div>
-
-
-
-
-  
 <div align="center">
   <h1>Hi, I'm SALAH HAMSATE</h1>
 
+<div align="center">
 
+  <img src="https://github.com/user-attachments/assets/62d91400-808e-42d6-915f-e1eab23aa37e" alt="gt">
+</div>
 
    <!-- GitHub stats -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=salah-ht&show_icons=true&locale=en&layout=compact" alt="salah-ht" />
