@@ -9,7 +9,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=salah-ht&show_icons=true&locale=en&layout=compact" alt="salah-ht" />
   <br/>
    
-
+[![Mohammad Saifur Rahman's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=salah-ht&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/salah-ht)
   <br/>
  
 </div>
